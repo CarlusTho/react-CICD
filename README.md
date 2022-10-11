@@ -2,7 +2,7 @@
 
 L'URL des repo gits: 
 - https://github.com/CarlusTho/react-CICD
-- https://github.com/CarlusTho/react-nativ-CICD
+- https://github.com/CarlusTho/react_native_app
 
 # Getting Started with Create React App
 
